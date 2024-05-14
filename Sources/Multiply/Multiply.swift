@@ -5,10 +5,10 @@
 //  Created by Vivek Lalan on 14/05/24.
 //
 
-public class Addition {
+public class Multiply {
 	init() {}
 
-	public func add(a: Int, b: Int) -> Int {
-		a + b
+	public func multiply(a: Int, b: Int) -> Int {
+		a * b
 	}
 }
